@@ -1,6 +1,6 @@
-#include 《stdio。h》
+#include <stdio.h>
 
-int mian（） {
-printf(“Hello, World!”)
+int main( ) {
+printf(“Hello, World!”);
 return 0；
 }
